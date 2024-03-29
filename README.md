@@ -46,19 +46,14 @@ Your application should now be running on http://localhost:3000.
 
 Running Tests
 To run unit tests with Vitest, use:
-bash
-Copy code
-npm run test:vitest
-To run tests with Jest, use:
-bash
-Copy code
-npm run test:jest
+```bash
+npm run test
+```
 Building for Production
 To build the application for production, run:
 
-bash
-Copy code
+```bash
 npm run build
+```
 This will generate a dist folder in the root of your project, which you can serve using any static file server.
 
-Contributing
