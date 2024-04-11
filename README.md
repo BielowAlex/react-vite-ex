@@ -30,7 +30,7 @@ Ensure you have Node.js installed on your system (preferably the latest LTS vers
 2.**Navigate to the project directory:**
 
 ```bash
-cd your-project-name
+cd react-vite-ex
 ```
 Install dependencies:
 ```bash
