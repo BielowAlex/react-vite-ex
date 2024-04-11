@@ -24,7 +24,7 @@ Ensure you have Node.js installed on your system (preferably the latest LTS vers
 
 
 ```bash
-  git clone https://yourrepositoryurl.git
+  git clone https://github.com/BielowAlex/react-vite-ex.git
 ```
 
 2.**Navigate to the project directory:**
